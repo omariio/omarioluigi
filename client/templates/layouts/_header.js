@@ -1,4 +1,4 @@
-Template.header.rendered = function() {
+Template._header.rendered = function() {
     /**
      * cbpAnimatedHeader.js v1.0.0
      * http://www.codrops.com
